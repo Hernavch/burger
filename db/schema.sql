@@ -1,3 +1,5 @@
+var mysql = require("mysql");
+
 CREATE DATABASE burgers_db;
 
 use burgers_db;
