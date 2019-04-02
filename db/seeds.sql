@@ -4,4 +4,4 @@ INSERT INTO burgers (burger_name) VALUES("Top Bun Burger");
 
 INSERT INTO burgers (burger_name) VALUES("Say it Aint Cilantro Burger");
 
-INSERT INTO burgers (burger_name) VALUES("The Grand Brie Burger")
+INSERT INTO burgers (burger_name) VALUES("The Grand Brie Burger");
